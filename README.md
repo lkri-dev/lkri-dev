@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lkri-dev
 - 👀 I’m interested in everything in software engineering and problem solving.
-- 🌱 I’m currently learning IoT architechture
+- 🌱 I’m currently learning IoT architechture and Machine Learning
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/laerkebkristensen/)
 
 I teach practical programming such as Algorithms, OOP, IoT / Embedded, Machine Learning and others.
