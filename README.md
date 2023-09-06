@@ -4,7 +4,7 @@
 <p align="left"> - 🌱 I’m currently learning about IoT architechture and Machine Learning </p>
 <p align="left"> - 👩‍🎓 I Studied at Aalborg University </p>
 <p align="left"> - 📫 How to reach me on 
-  <a href="[https://www.arduino.cc/](https://www.linkedin.com/in/laerkebkristensen/)" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/laerkebkristensen/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png" alt="Linkedin" width="80" height="20"/>
   </a>
 </p>
