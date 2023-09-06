@@ -9,11 +9,6 @@
   </a>
 </p>
 
-
-
-<p align="left"> I teach practical programming such as Algorithms, OOP, IoT / Embedded, Machine Learning and others.
-I primarely write C#, Python and C/C++, for my current Job, but also have experience with Java and JavaScript.</p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkri-dev&layout=donut&theme=tokyonight)](https://github.com/lkri-dev/github-readme-stats)
 
 [Source: Profile stats repo](https://github.com/anuraghazra/github-readme-stats)
